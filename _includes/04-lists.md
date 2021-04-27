@@ -1,0 +1,3 @@
+- [ ] Python networking
+- [ ] Ansible
+- [ ] Nornir
